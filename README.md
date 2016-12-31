@@ -1,2 +1,2 @@
 # ZombieGame
-Zombies chase you.
+Zombies chase you. Click to shoot, WASD to move.
